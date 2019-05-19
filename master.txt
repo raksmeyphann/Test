@@ -2,3 +2,4 @@ This is master
 this is develop
 this is master commit1
 this is masteer commit 2
+this is 2.6
